@@ -395,7 +395,8 @@ body {
   font-weight: 700;
   font-size: 16px;
   line-height: 140%;
-  color: #998c8c;
+  color: #FFFFFF;
+  opacity: 0.4;
 }
 
 .texttwo {
@@ -409,7 +410,8 @@ body {
   font-weight: 300;
   font-size: 10px;
   line-height: 140%;
-  color: #998c8c;
+  color: #FFFFFF;
+  opacity: 0.4;
 }
 
 .writestwo {
@@ -418,8 +420,9 @@ body {
   height: 276px;
   left: 1330px;
   top: 760px;
-  background: #305361;
+  background: #018ABE;
   border-radius: 10px;
+  opacity: 0.4;
 }
 
 .yanatext {
@@ -440,7 +443,8 @@ body {
   font-weight: 700;
   font-size: 16px;
   line-height: 140%;
-  color: #998c8c;
+  color: #FFFFFF;
+  opacity: 0.4;
 }
 
 .textthree {
@@ -454,7 +458,8 @@ body {
   font-weight: 300;
   font-size: 10px;
   line-height: 140%;
-  color: #998c8c;
+  color: #FFFFFF;
+  opacity: 0.4;
 }
 
 .writesthree {
@@ -463,12 +468,64 @@ body {
   height: 276px;
   left: 55px;
   top: 480px;
-  background: #305361;
+  background: #018ABE;
   border-radius: 10px;
+  opacity: 0.4;
 }
 
 .sashatext {
   position: absolute;
   left: -1340px;
   top: -1935px;
+}
+
+.scrollone {
+  content: "";
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  left: 810px;
+  top: 400px;
+  background: #FFFFFF;
+  border-radius: 3px;
+ 
+}
+.scrolltwo {
+  content: "";
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  left: 840px;
+  top: 400px;
+  background: #FFFFFF;
+  border-radius: 3px;
+  opacity: 0.4;
+}
+.scrollthree {
+  content: "";
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  left: 870px;
+  top: 400px;
+  background: #FFFFFF;
+  border-radius: 3px;
+  opacity: 0.4;
+}
+.scrollfour {
+  content: "";
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  left: 900px;
+  top: 400px;
+  background: #FFFFFF;
+  border-radius: 3px;
+  opacity: 0.4;
+}
+
+
+.scrollquadra {
+  position: absolute;
+  left: 50px;
 }
