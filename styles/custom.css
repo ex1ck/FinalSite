@@ -14,6 +14,43 @@ body {
     background: #162831;
   }
 
+  .visit h1 {
+    position: absolute;
+    width: 336px;
+    height: 59px;
+    left: 792px;
+    top: 890px;
+    font-family: 'El Messiri';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 140%;
+    text-align: center;
+    color: #FFFFFF;
+  }
+
+  .visit h1::before {
+    content: "";
+    background-color: rgb(6, 135, 248);
+    width: 28px;
+    height: 14px;
+    border-radius: 50px 0;
+    position: absolute;
+    left: 425px;
+    top: 20px;
+  }
+
+  .visit::after {
+    content: "";
+    background-color: rgb(6, 135, 248);
+    width: 28px;
+    height: 14px;
+    border-radius: 0 50px;
+    position: absolute;
+    left: 690px;
+    top: 905px;
+  }
+
   .aquaritm {
     position: absolute;
     width: 587px;
@@ -124,4 +161,62 @@ body {
   }
   
   
-  
+  .healt::before {
+    content: "";
+    background-color: aliceblue;
+    width: 28px;
+    height: 14px;
+    border-radius: 50px 0;
+    position: absolute;
+    left: -100px;
+  }
+
+  .healt::after {
+    content: "";
+    background-color: aliceblue;
+    width: 28px;
+    height: 14px;
+    border-radius: 0 50px;
+    position: absolute;
+    left: 300px;
+  }
+
+  .standart {
+    position: absolute;
+    left: 25px;
+    bottom: 25px;
+    font-family: 'El Messiri';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 140%;
+    color: #FFFFFF;
+   }
+
+ .diving {
+  position: relative;
+  width: 415px;
+  height: 540px;
+  left: 245px;
+  top: 265px;
+ }
+
+ .together {
+    position: absolute;
+    left: 30px;
+    bottom: 295px;
+    font-family: 'El Messiri';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 140%;
+    color: #FFFFFF;
+ }
+
+ .divingsmall {
+  position: relative;
+  width: 415px;
+  height: 540px;
+  left: 690px;
+  top: -275px;
+ }
