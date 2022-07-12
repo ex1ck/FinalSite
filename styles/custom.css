@@ -14,6 +14,13 @@ body {
     background: #162831;
   }
   
+  .menucentr {
+    position: absolute;
+    width: 680px;
+    height: 40px;
+    left: 585px;
+    top: 50px;
+  }
   .navigation li a {
     font-family: 'Comfortaa', cursive;
   }
@@ -71,7 +78,7 @@ body {
     width: 100%;
     max-width: 1300px;
     margin: 0 auto;
-    padding: 0px 13px;
+    padding: 30px 13px;
     overflow: auto; 
   }
   
@@ -80,7 +87,7 @@ body {
   }
   
   .navigation li {
-    float: left;  
+    float: left; 
   }
   
   .navigation li a {
@@ -96,7 +103,7 @@ body {
   align-items: center;
   padding: 9px 15px;
   gap: 10px;
-  position: absolute;
+  float: right;
   width: 155px;
   height: 36px;
   left: 1455px;
@@ -110,42 +117,3 @@ body {
     margin-top: 79px;
   }
   
-  .secondlook {
-    float: right;
-    color: white;
-    margin-top: 121px;
-    font-family: 'El Messiri', sans-serif;  
-  }
-  
-  .secondlook h1 {
-    position: absolute;
-    width: 336px;
-    height: 59px;
-    left: 792px;
-    top: 897px;
-    font-family: 'El Messiri';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 42px;
-    line-height: 140%;
-    text-align: center;
-  }
-  
-  .secondbox {
-    width: 100%;
-    max-width: 1300px;
-  }
-  
-  .firstbox li {
-    float: right;
-    margin: 4px;
-    color: white;
-    width: 415px;
-    height: 260px;
-    display: inline;
-    margin-top: 100px;
-  }
-  
-  .secondbox ul {
-    margin-bottom: 785px;
-  }
