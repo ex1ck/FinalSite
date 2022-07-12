@@ -110,7 +110,7 @@ body {
   .container {
     overflow: hidden;
     position: relative;
-    border-radius: 10px;
+   
   }
   
   .container h1 {
@@ -144,7 +144,7 @@ body {
   flex-direction: row;
   justify-content: center;
   align-items: center;
-  padding: 9px 15px;
+  padding: 9px 13px;
   gap: 10px;
   float: right;
   width: 155px;
@@ -159,7 +159,6 @@ body {
     color: white;
     margin-top: 79px;
   }
-  
   
   .healt::before {
     content: "";
@@ -197,11 +196,31 @@ body {
   position: relative;
   width: 415px;
   height: 540px;
-  left: 245px;
+  left: 250px;
   top: 265px;
  }
 
  .together {
+    position: absolute;
+    left: 30px;
+    bottom: 295px;
+    font-family: 'El Messiri';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 140%;
+    color: #FFFFFF;
+ }
+
+ .divingsmalltwo {
+  position: relative;
+  width: 415px;
+  height: 540px;
+  left: 690px;
+  top: -535px;
+ }
+
+ .underwater {
     position: absolute;
     left: 30px;
     bottom: 295px;
@@ -220,3 +239,146 @@ body {
   left: 690px;
   top: -275px;
  }
+
+ .babyboom {
+    position: absolute;
+    left: 30px;
+    bottom: 295px;
+    font-family: 'El Messiri';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 140%;
+    color: #FFFFFF;
+ }
+
+ .divingsmallthree {
+  position: relative;
+  width: 415px;
+  height: 540px;
+  left: 1130px;
+  top: -1355px;
+ }
+
+ .fotoset {
+    position: absolute;
+    left: 30px;
+    bottom: 295px;
+    font-family: 'El Messiri';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 140%;
+    color: #FFFFFF;
+ }
+
+ .divingsmallfour {
+  position: relative;
+  width: 415px;
+  height: 540px;
+  left: 1130px;
+  top: -1620px;
+ }
+
+ .table {
+  position: absolute;
+  left: 50px;
+ }
+
+ .bigimgone {
+    border-radius: 10px;
+    overflow: hidden;
+    position: relative;
+ }
+
+ .bigimgone img {
+    width: 100%;
+    height: auto;
+ }
+
+ .checkin {
+  font-size: 13px;
+ }
+
+
+ .reviewsone {
+  position: absolute;
+  width: 154px;
+  height: 59px;
+  left: 883px;
+  top: 1739px;
+  font-family: 'El Messiri';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 42px;
+  line-height: 140%;
+  text-align: center;
+  color: #FFFFFF;
+ }
+
+
+.reviews::after {
+  content: "";
+  background-color: rgb(6, 135, 248);
+  width: 28px;
+  height: 14px;
+  border-radius: 0 50px;
+  position: absolute;
+  left: -80px;
+  top: 15px;
+}
+
+.reviews::before {
+  content: "";
+  background-color: rgb(6, 135, 248);
+  width: 28px;
+  height: 14px;
+  border-radius: 50px 0;
+  position: absolute;
+  left: 200px;
+  top: 20px;
+}
+
+.nameKira {
+  position: absolute;
+  width: 516px;
+  height: 28px;
+  left: 702px;
+  top: 1948px;
+  font-family: 'Comfortaa';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 140%;
+  color: #FFFFFF;
+}
+
+.textfirst {
+  position: absolute;
+  width: 516px;
+  height: 196px;
+  left: 702px;
+  top: 1996px;
+  font-family: 'Comfortaa';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 140%;
+  color: #FFFFFF;
+}
+
+.writes {
+  position:relative;
+  width: 636px;
+  height: 350px;
+  left: 625px;
+  top: 1075px;
+  background: #018ABE;
+  border-radius: 10px;
+}
+
+.kiratext {
+  position: absolute;
+  left: -652px;
+  top: -1920px;
+}
