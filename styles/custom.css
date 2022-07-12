@@ -956,3 +956,23 @@ top: 4412px;
     line-height: 40px;
     color: #FFFFFF;
   }
+
+  .backquadrone {
+    position: relative;
+    width: 392px;
+    height: 290px;
+    left: 1210px;
+    top: 2700px;
+    background: #018ABE;
+    border-radius: 10px;
+  }
+
+  .backquadro {
+    position: relative;
+    width: 392px;
+    height: 290px;
+    left: 1210px;
+    top: 2720px;
+    background: #018ABE;
+    border-radius: 10px;
+  }
