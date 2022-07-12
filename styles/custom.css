@@ -63,6 +63,7 @@ body {
     line-height: 140%;
     text-align: center;
   }
+
   .healt {
     position: absolute;
     width: 241px;
@@ -83,6 +84,7 @@ body {
     left: 585px;
     top: 50px;
   }
+
   .navigation li a {
     font-family: 'Comfortaa', cursive;
   }
@@ -110,7 +112,6 @@ body {
   .container {
     overflow: hidden;
     position: relative;
-   
   }
   
   .container h1 {
@@ -139,20 +140,20 @@ body {
   }
   
   .header-button {
-  color: white;
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  align-items: center;
-  padding: 9px 13px;
-  gap: 10px;
-  float: right;
-  width: 155px;
-  height: 36px;
-  left: 1455px;
-  top: 43px;
-  background: #018ABE;
-  border-radius: 3px;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 9px 13px;
+    gap: 10px;
+    float: right;
+    width: 155px;
+    height: 36px;
+    left: 1455px;
+    top: 43px;
+    background: #018ABE;
+    border-radius: 3px;
   }
   
   .firstlook {
@@ -193,11 +194,11 @@ body {
    }
 
  .diving {
-  position: relative;
-  width: 415px;
-  height: 540px;
-  left: 250px;
-  top: 265px;
+    position: relative;
+    width: 415px;
+    height: 540px;
+    left: 250px;
+    top: 265px;
  }
 
  .together {
@@ -213,11 +214,11 @@ body {
  }
 
  .divingsmalltwo {
-  position: relative;
-  width: 415px;
-  height: 540px;
-  left: 690px;
-  top: -535px;
+    position: relative;
+    width: 415px;
+    height: 540px;
+    left: 690px;
+    top: -535px;
  }
 
  .underwater {
@@ -253,11 +254,11 @@ body {
  }
 
  .divingsmallthree {
-  position: relative;
-  width: 415px;
-  height: 540px;
-  left: 1130px;
-  top: -1355px;
+    position: relative;
+    width: 415px;
+    height: 540px;
+    left: 1130px;
+    top: -1355px;
  }
 
  .fotoset {
@@ -273,16 +274,16 @@ body {
  }
 
  .divingsmallfour {
-  position: relative;
-  width: 415px;
-  height: 540px;
-  left: 1130px;
-  top: -1620px;
+    position: relative;
+    width: 415px;
+    height: 540px;
+    left: 1130px;
+    top: -1620px;
  }
 
  .table {
-  position: absolute;
-  left: 50px;
+    position: absolute;
+    left: 50px;
  }
 
  .bigimgone {
@@ -297,25 +298,23 @@ body {
  }
 
  .checkin {
-  font-size: 13px;
+    font-size: 13px;
  }
-
 
  .reviewsone {
-  position: absolute;
-  width: 154px;
-  height: 59px;
-  left: 883px;
-  top: 1739px;
-  font-family: 'El Messiri';
-  font-style: normal;
-  font-weight: 700;
-  font-size: 42px;
-  line-height: 140%;
-  text-align: center;
-  color: #FFFFFF;
+    position: absolute;
+    width: 154px;
+    height: 59px;
+    left: 883px;
+    top: 1739px;
+    font-family: 'El Messiri';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 140%;
+    text-align: center;
+    color: #FFFFFF;
  }
-
 
 .reviews::after {
   content: "";
@@ -383,7 +382,6 @@ body {
   top: -1920px;
 }
 
-
 .nameyana {
   position: absolute;
   width: 410px;
@@ -430,7 +428,6 @@ body {
   left: -1340px;
   top: -1935px;
 }
-
 
 .namesasha {
   position: absolute;
@@ -500,6 +497,7 @@ body {
   background: #FFFFFF;
   border-radius: 3px;
   opacity: 0.4;
+
 }
 .scrollthree {
   content: "";
@@ -512,6 +510,7 @@ body {
   border-radius: 3px;
   opacity: 0.4;
 }
+
 .scrollfour {
   content: "";
   position: absolute;
@@ -524,12 +523,10 @@ body {
   opacity: 0.4;
 }
 
-
 .scrollquadra {
   position: absolute;
   left: 50px;
 }
-
 
 .about {
   position: absolute;
@@ -545,7 +542,6 @@ body {
   text-align: center;
   color: #FFFFFF;
 }
-
 
 .about::after {
   content: "";
@@ -570,17 +566,17 @@ body {
 }
 
 .massage {
-position: absolute;
-width: 406.28px;
-height: 34px;
-left: 422px;
-top: 2699px;
-font-family: 'Comfortaa';
-font-style: normal;
-font-weight: 700;
-font-size: 24px;
-line-height: 140%;
-color: #FFFFFF;
+  position: absolute;
+  width: 406.28px;
+  height: 34px;
+  left: 422px;
+  top: 2699px;
+  font-family: 'Comfortaa';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 140%;
+  color: #FFFFFF;
 }
 
 .massagetext {
@@ -657,7 +653,6 @@ color: #FFFFFF;
   text-align: center;
   color: #FFFFFF;
 }
-
 
 .priceone::after {
   content: "";
@@ -752,10 +747,10 @@ color: #FFFFFF;
 
 .map {
   position: absolute;
-width: 856px;
-height: 604px;
-left: 312px;
-top: 4412px;
+  width: 856px;
+  height: 604px;
+  left: 312px;
+  top: 4412px;
 }
 
 .workclass {
@@ -785,6 +780,7 @@ top: 4412px;
   line-height: 140%;
   color: #FFFFFF;
 }
+
 .footer-button-one{
   display: flex;
   flex-direction: row;
@@ -807,7 +803,7 @@ top: 4412px;
   font-family: 'Comfortaa';
   font-style: normal;
   font-weight: 600;
-  font-size: 13px;
+  font-size: 12px;
   line-height: 90%;
   color: #018ABE;
   flex: none;
@@ -821,7 +817,7 @@ top: 4412px;
   font-family: 'Comfortaa';
   font-style: normal;
   font-weight: 600;
-  font-size: 13px;
+  font-size: 12px;
   line-height: 90%;
   color: #018ABE;
   flex: none;
@@ -975,4 +971,33 @@ top: 4412px;
     top: 2720px;
     background: #018ABE;
     border-radius: 10px;
+  }
+
+  .date {
+    position: absolute;
+    width: 143px;
+    height: 19px;
+    left: 312px;
+    top: 5106px;
+    font-family: 'Comfortaa';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 135%;
+    color: #FFFFFF;
+  }
+
+  .made {
+    position: absolute;
+    width: 122px;
+    height: 19px;
+    left: 1486px;
+    top: 5106px;
+    font-family: 'Comfortaa';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 135%;
+    text-align: right;
+    color: #FFFFFF;
   }
