@@ -529,3 +529,194 @@ body {
   position: absolute;
   left: 50px;
 }
+
+
+.about {
+  position: absolute;
+  width: 243px;
+  height: 59px;
+  left: 839px;
+  top: 2474px;
+  font-family: 'El Messiri';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 42px;
+  line-height: 140%;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+
+.about::after {
+  content: "";
+  background-color: rgb(6, 135, 248);
+  width: 28px;
+  height: 14px;
+  border-radius: 0 50px;
+  position: absolute;
+  left: -80px;
+  top: 15px;
+}
+
+.about::before {
+  content: "";
+  background-color: rgb(6, 135, 248);
+  width: 28px;
+  height: 14px;
+  border-radius: 50px 0;
+  position: absolute;
+  left: 300px;
+  top: 20px;
+}
+
+.massage {
+position: absolute;
+width: 406.28px;
+height: 34px;
+left: 422px;
+top: 2699px;
+font-family: 'Comfortaa';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 140%;
+color: #FFFFFF;
+}
+
+.massagetext {
+  position: absolute;
+  width: 466px;
+  height: 170px;
+  left: 422px;
+  top: 2763px;
+  font-family: 'Comfortaa';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 140%;
+  color: #FFFFFF;
+}
+
+.blackwater {
+  position: absolute;
+  width: 526px;
+  height: 365px;
+  left: 972px;
+  top: 2633px;
+  border-radius: 10px;
+}
+
+.hydro {
+  position: absolute;
+  width: 415px;
+  height: 34px;
+  left: 1032px;
+  top: 3115px;
+  font-family: 'Comfortaa';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 140%;
+  color: #FFFFFF;
+}
+
+.gydrotext {
+  position: absolute;
+  width: 530px;
+  height: 302px;
+  left: 1030px;
+  top: 3180px;
+  font-family: 'Comfortaa';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 140%;
+  color: #FFFFFF;
+}
+
+.blackwatertwo {
+  position: absolute;
+  width: 525px;
+  height: 400px;
+  left: 420px;
+  top: 3100px;
+  border-radius: 10px;
+}
+
+.priceone {
+  position: absolute;
+  width: 372px;
+  height: 59px;
+  left: 774px;
+  top: 3648px;
+  font-family: 'El Messiri';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 42px;
+  line-height: 140%;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+
+.priceone::after {
+  content: "";
+  background-color: rgb(6, 135, 248);
+  width: 28px;
+  height: 14px;
+  border-radius: 0 50px;
+  position: absolute;
+  left: -80px;
+  top: 15px;
+}
+
+.priceone::before {
+  content: "";
+  background-color: rgb(6, 135, 248);
+  width: 28px;
+  height: 14px;
+  border-radius: 50px 0;
+  position: absolute;
+  left: 420px;
+  top: 20px;
+}
+
+.priceul {
+  font-family: 'Comfortaa';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  color: #FFFFFF;
+  line-height: 50px;
+  position: absolute;
+  width: 416px;
+  height: 250px;
+  left: 422px;
+  top: 3910px;
+}
+
+.pricenumbers {
+  font-family: 'El Messiri';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 50px;
+  text-align: right;
+  color: #FFFFFF;
+  position: absolute;
+  width: 416px;
+  height: 250px;
+  left: 35px;
+  top: 5px;
+}
+
+.nameprice li::before {
+  content: "";
+  background-color: rgb(6, 135, 248);
+  width: 28px;
+  height: 14px;
+  border-radius: 0 50px;
+  position: absolute;
+  left: -50px;
+  margin-top: 15px;
+}
