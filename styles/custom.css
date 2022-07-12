@@ -720,3 +720,239 @@ color: #FFFFFF;
   left: -50px;
   margin-top: 15px;
 }
+
+.imgthanks {
+  box-sizing: border-box;
+  position: absolute;
+  width: 526px;
+  height: 396px;
+  border: 1px solid #000000;
+  border-radius: 10px;
+}
+
+.sertificat {
+  position: absolute;
+  width: 241px;
+  height: 29px;
+  font-family: 'El Messiri';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 21px;
+  line-height: 140%;
+  text-align: center;
+  color: #FFFFFF;
+  left: 155px;
+}
+
+.thanks {
+  position: absolute;
+  left: 565px;
+  top: -95px;
+}
+
+.map {
+  position: absolute;
+width: 856px;
+height: 604px;
+left: 312px;
+top: 4412px;
+}
+
+.workclass {
+  position: absolute;
+  width: 302px;
+  height: 34px;
+  left: 1255px;
+  top: 4447px;
+  font-family: 'El Messiri';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 140%;
+  color: #FFFFFF;
+}
+
+.workclasstwo {
+  position: absolute;
+  width: 302px;
+  height: 34px;
+  left: 1255px;
+  top: 4761px;
+  font-family: 'El Messiri';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 140%;
+  color: #FFFFFF;
+}
+.footer-button-one{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 9px 15px;
+  gap: 10px;
+  position: absolute;
+  width: 155px;
+  height: 36px;
+  left: 1255px;
+  top: 4631px;
+  background: #FFFFFF;
+  border-radius: 3px;
+}
+
+.checkintwo {
+  width: 125px;
+  height: 18px;
+  font-family: 'Comfortaa';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 13px;
+  line-height: 90%;
+  color: #018ABE;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.checkinthree {
+  width: 125px;
+  height: 18px;
+  font-family: 'Comfortaa';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 13px;
+  line-height: 90%;
+  color: #018ABE;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.footer-button-two {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 9px 15px;
+  gap: 10px;
+  position: absolute;
+  width: 155px;
+  height: 36px;
+  left: 0px;
+  top: 140px;
+  background: #FFFFFF;
+  border-radius: 3px;
+}
+
+  .nevskyi {
+    position: absolute;
+    width: 262px;
+    height: 19px;
+    left: 1295px;
+    top: 4502px;
+    font-family: 'Comfortaa';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 135%;
+    color: #FFFFFF;
+  }
+
+  .metro {
+    position: absolute;
+    width: 262px;
+    height: 19px;
+    left: 1295px;
+    top: 4542px;
+    font-family: 'Comfortaa';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 135%;
+    color: #FFFFFF;
+  }
+
+  .deal {
+    position: absolute;
+    width: 262px;
+    height: 19px;
+    left: 1295px;
+    top: 4582px;
+    font-family: 'Comfortaa';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 135%;
+    color: #FFFFFF;
+  }
+
+  .fontall {
+    position: absolute;
+    width: 262px;
+    height: 19px;
+    left: 1255px;
+    top: 4490px;
+    font-family: 'Comfortaa';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 40px;
+    color: #FFFFFF;
+  }
+
+  .ivanova {
+    position: absolute;
+    width: 262px;
+    height: 19px;
+    left: 1295px;
+    top: 4816px;
+    font-family: 'Comfortaa';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 135%;
+    color: #FFFFFF;
+  }
+
+  .metrotwo {
+    position: absolute;
+    width: 262px;
+    height: 19px;
+    left: 1295px;
+    top: 4856px;
+    font-family: 'Comfortaa';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 135%;
+    color: #FFFFFF;
+  }
+
+  .dealtwo {
+    position: absolute;
+    width: 262px;
+    height: 19px;
+    left: 1295px;
+    top: 4896px;
+    font-family: 'Comfortaa';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 135%;
+    color: #FFFFFF;
+  }
+
+  .fontalltwo {
+    position: absolute;
+    width: 262px;
+    height: 19px;
+    left: 1255px;
+    top: 4805px;
+    font-family: 'Comfortaa';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 40px;
+    color: #FFFFFF;
+  }
