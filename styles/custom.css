@@ -55,7 +55,7 @@ body {
     position: absolute;
     width: 587px;
     height: 180px;
-    left: 400px;
+    left: 380px;
     top: 200px;
     font-style: normal;
     font-weight: 700;
@@ -68,7 +68,7 @@ body {
     position: absolute;
     width: 241px;
     height: 34px;
-    left: 580px;
+    left: 555px;
     top: 150px;
     font-style: normal;
     font-weight: 700;
@@ -343,7 +343,7 @@ body {
   width: 516px;
   height: 28px;
   left: 702px;
-  top: 1948px;
+  top: 1950px;
   font-family: 'Comfortaa';
   font-style: normal;
   font-weight: 700;
@@ -357,7 +357,21 @@ body {
   width: 516px;
   height: 196px;
   left: 702px;
-  top: 1996px;
+  top: 1990px;
+  font-family: 'Comfortaa';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 140%;
+  color: #FFFFFF;
+}
+
+.textfirsttwo {
+  position: absolute;
+  width: 516px;
+  height: 196px;
+  left: 702px;
+  top: 2115px;
   font-family: 'Comfortaa';
   font-style: normal;
   font-weight: 300;
@@ -412,6 +426,21 @@ body {
   opacity: 0.4;
 }
 
+.texttwotwo {
+  position: absolute;
+  width: 410px;
+  height: 142px;
+  left: 1373px;
+  top: 2130px;
+  font-family: 'Comfortaa';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 10px;
+  line-height: 140%;
+  color: #FFFFFF;
+  opacity: 0.4;
+}
+
 .writestwo {
   position: relative;
   width: 500px;
@@ -450,6 +479,21 @@ body {
   height: 142px;
   left: 1373px;
   top: 2012px;
+  font-family: 'Comfortaa';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 10px;
+  line-height: 140%;
+  color: #FFFFFF;
+  opacity: 0.4;
+}
+
+.textthreetwo {
+  position: absolute;
+  width: 410px;
+  height: 142px;
+  left: 1373px;
+  top: 2085px;
   font-family: 'Comfortaa';
   font-style: normal;
   font-weight: 300;
@@ -588,7 +632,21 @@ body {
   font-family: 'Comfortaa';
   font-style: normal;
   font-weight: 300;
-  font-size: 16px;
+  font-size: 14px;
+  line-height: 140%;
+  color: #FFFFFF;
+}
+
+.massagetexttwo {
+  position: absolute;
+  width: 466px;
+  height: 170px;
+  left: 422px;
+  top: 2880px;
+  font-family: 'Comfortaa';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
   line-height: 140%;
   color: #FFFFFF;
 }
@@ -625,7 +683,21 @@ body {
   font-family: 'Comfortaa';
   font-style: normal;
   font-weight: 300;
-  font-size: 16px;
+  font-size: 14px;
+  line-height: 140%;
+  color: #FFFFFF;
+}
+
+.gydrotexttwo {
+  position: absolute;
+  width: 530px;
+  height: 302px;
+  left: 1030px;
+  top: 3320px;
+  font-family: 'Comfortaa';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
   line-height: 140%;
   color: #FFFFFF;
 }
