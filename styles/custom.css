@@ -14,7 +14,7 @@ body {
     background: #162831;
   }
 
-  .visit h1 {
+  .visit h2 {
     position: absolute;
     width: 336px;
     height: 59px;
@@ -29,15 +29,15 @@ body {
     color: #FFFFFF;
   }
 
-  .visit h1::before {
+  .visit::before {
     content: "";
     background-color: rgb(6, 135, 248);
     width: 28px;
     height: 14px;
     border-radius: 50px 0;
     position: absolute;
-    left: 425px;
-    top: 20px;
+    left: 1190px;
+    top: 905px;
   }
 
   .visit::after {
