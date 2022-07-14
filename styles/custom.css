@@ -664,7 +664,7 @@ body {
   position: absolute;
   width: 415px;
   height: 34px;
-  left: 1032px;
+  left: 1020px;
   top: 3115px;
   font-family: 'Comfortaa';
   font-style: normal;
@@ -676,9 +676,9 @@ body {
 
 .gydrotext {
   position: absolute;
-  width: 530px;
+  width: 470px;
   height: 302px;
-  left: 1030px;
+  left: 1020px;
   top: 3180px;
   font-family: 'Comfortaa';
   font-style: normal;
@@ -690,9 +690,9 @@ body {
 
 .gydrotexttwo {
   position: absolute;
-  width: 530px;
+  width: 485px;
   height: 302px;
-  left: 1030px;
+  left: 1020px;
   top: 3320px;
   font-family: 'Comfortaa';
   font-style: normal;
@@ -777,6 +777,11 @@ body {
   top: 5px;
 }
 
+.nameprice {
+  position: absolute;
+  left: 60px;
+}
+
 .nameprice li::before {
   content: "";
   background-color: rgb(6, 135, 248);
@@ -813,7 +818,7 @@ body {
 
 .thanks {
   position: absolute;
-  left: 565px;
+  left: 600px;
   top: -95px;
 }
 
